@@ -1,0 +1,19 @@
+{
+  "name": "qrpay_server",
+  "version": "1.0.0",
+  "description": "A server for qrPay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hajun-myoung/qrpay-back.git"
+  },
+  "author": "DENVER <fe.dev.denver@gmail.com> (hajun)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hajun-myoung/qrpay-back/issues"
+  },
+  "homepage": "https://github.com/hajun-myoung/qrpay-back#readme"
+}
